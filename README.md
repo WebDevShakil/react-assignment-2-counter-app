@@ -16,4 +16,4 @@
 - part 2: disable buttons(2 points)
 
   - disable increment button when count value is 5
-  - disable decrement button when count value is -5
+  - disable decrement button when count value is -10
